@@ -53,6 +53,7 @@ while(1);
 ### OUTPUT:
 <img width="1427" height="862" alt="Screenshot 2025-10-08 205540" src="https://github.com/user-attachments/assets/ffeac65d-e730-4d59-869b-cab9dfaee2f0" />
 
+
 <img width="1052" height="713" alt="Screenshot 2025-10-08 210110" src="https://github.com/user-attachments/assets/671373df-f9d8-4309-8757-b54fc0caa940" />
 
 
